@@ -96,5 +96,6 @@
 ## 💰 You can help me by Donating
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leonelh29/)
+[![Mercado Pago](https://img.shields.io/badge/Mercado%20Pago-00B1EA?style=for-the-badge&logo=mercado-pago&logoColor=white)](https://mpago.la/1JwLYWQ)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
