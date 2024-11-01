@@ -1,6 +1,7 @@
 # 💫 About Me:
 
 - Full Stack Web Developer.
+- Graduated student of the University Programmer 👨🏻‍🎓.
 - Advanced student of the University Programmer and Bachelor's Degree in Computer Science.
 - Experience in all stages of software development, both in personal and group projects.
 
